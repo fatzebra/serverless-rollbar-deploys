@@ -22,5 +22,7 @@
     "rollbar",
     "deployment"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "follow-redirects": "^1.14.1"
+  }
 }
